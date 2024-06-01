@@ -1,4 +1,4 @@
-# ClassReminderBot
+# ClassReminder-Bot
 
 This Google Apps Script automates the process of sending class reminders to students based on the class schedule, student details, and student emails stored in Google Sheets.
 
